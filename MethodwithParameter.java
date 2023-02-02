@@ -22,7 +22,7 @@ public class MethodwithParameter {
         System.out.println(); // outputs a black line 
         
       /*  call myGradeBook's displayMessage method
-          and pass nameOfCourse as an argument */
+          and pass courseName as an argument */
         myGradeBook.displayMessage(courseName);
     } // end main
 } // end class MethodwithParameter
