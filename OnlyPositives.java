@@ -18,7 +18,7 @@ public class OnlyPositives { // OnlyPositives class
                 continue; // restart the execution
             }
             if (number == 0) {
-                break; // end to program
+                break; // end the program
             }
             if (number > 0) {
                 // if the number is positive, then take square
