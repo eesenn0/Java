@@ -18,4 +18,4 @@ public class Password { // Password class
         }
 
     } // end of main method
-} // end of CaputDraconis class
+} // end of Password class
